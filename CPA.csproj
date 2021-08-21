@@ -51,123 +51,123 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmCosecha.cs">
+    <Compile Include="Form\frmCosecha.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmCosecha.Designer.cs">
+    <Compile Include="Form\frmCosecha.Designer.cs">
       <DependentUpon>frmCosecha.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmEntregaProducto.cs">
+    <Compile Include="Form\frmEntregaProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmEntregaProducto.Designer.cs">
+    <Compile Include="Form\frmEntregaProducto.Designer.cs">
       <DependentUpon>frmEntregaProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmFacturaInsumo.cs">
+    <Compile Include="Form\frmFacturaInsumo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmFacturaInsumo.Designer.cs">
+    <Compile Include="Form\frmFacturaInsumo.Designer.cs">
       <DependentUpon>frmFacturaInsumo.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmHome.cs">
+    <Compile Include="Form\frmHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmHome.Designer.cs">
+    <Compile Include="Form\frmHome.Designer.cs">
       <DependentUpon>frmHome.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoABodega.cs">
+    <Compile Include="Form\frmIngresoABodega.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngresoABodega.Designer.cs">
+    <Compile Include="Form\frmIngresoABodega.Designer.cs">
       <DependentUpon>frmIngresoABodega.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoCliente.cs">
+    <Compile Include="Form\frmIngresoCliente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngresoCliente.Designer.cs">
+    <Compile Include="Form\frmIngresoCliente.Designer.cs">
       <DependentUpon>frmIngresoCliente.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoCosecha.cs">
+    <Compile Include="Form\frmIngresoCosecha.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngresoCosecha.Designer.cs">
+    <Compile Include="Form\frmIngresoCosecha.Designer.cs">
       <DependentUpon>frmIngresoCosecha.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoFinca.cs">
+    <Compile Include="Form\frmIngresoFinca.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngresoFinca.Designer.cs">
+    <Compile Include="Form\frmIngresoFinca.Designer.cs">
       <DependentUpon>frmIngresoFinca.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoInsumo.cs">
+    <Compile Include="Form\frmIngresoInsumo.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngresoInsumo.Designer.cs">
+    <Compile Include="Form\frmIngresoInsumo.Designer.cs">
       <DependentUpon>frmIngresoInsumo.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoLote.cs">
+    <Compile Include="Form\frmIngresoLote.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngresoLote.Designer.cs">
+    <Compile Include="Form\frmIngresoLote.Designer.cs">
       <DependentUpon>frmIngresoLote.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoProducto.cs">
+    <Compile Include="Form\frmIngresoProducto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngresoProducto.Designer.cs">
+    <Compile Include="Form\frmIngresoProducto.Designer.cs">
       <DependentUpon>frmIngresoProducto.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmIngresoProductor.cs">
+    <Compile Include="Form\frmIngresoProductor.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngresoProductor.Designer.cs">
+    <Compile Include="Form\frmIngresoProductor.Designer.cs">
       <DependentUpon>frmIngresoProductor.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmLogin.cs">
+    <Compile Include="Form\frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmLogin.Designer.cs">
+    <Compile Include="Form\frmLogin.Designer.cs">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmCosecha.resx">
+    <EmbeddedResource Include="Form\frmCosecha.resx">
       <DependentUpon>frmCosecha.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmEntregaProducto.resx">
+    <EmbeddedResource Include="Form\frmEntregaProducto.resx">
       <DependentUpon>frmEntregaProducto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmFacturaInsumo.resx">
+    <EmbeddedResource Include="Form\frmFacturaInsumo.resx">
       <DependentUpon>frmFacturaInsumo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmHome.resx">
+    <EmbeddedResource Include="Form\frmHome.resx">
       <DependentUpon>frmHome.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmIngresoABodega.resx">
+    <EmbeddedResource Include="Form\frmIngresoABodega.resx">
       <DependentUpon>frmIngresoABodega.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmIngresoCliente.resx">
+    <EmbeddedResource Include="Form\frmIngresoCliente.resx">
       <DependentUpon>frmIngresoCliente.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmIngresoCosecha.resx">
+    <EmbeddedResource Include="Form\frmIngresoCosecha.resx">
       <DependentUpon>frmIngresoCosecha.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmIngresoFinca.resx">
+    <EmbeddedResource Include="Form\frmIngresoFinca.resx">
       <DependentUpon>frmIngresoFinca.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmIngresoInsumo.resx">
+    <EmbeddedResource Include="Form\frmIngresoInsumo.resx">
       <DependentUpon>frmIngresoInsumo.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmIngresoLote.resx">
+    <EmbeddedResource Include="Form\frmIngresoLote.resx">
       <DependentUpon>frmIngresoLote.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmIngresoProducto.resx">
+    <EmbeddedResource Include="Form\frmIngresoProducto.resx">
       <DependentUpon>frmIngresoProducto.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmIngresoProductor.resx">
+    <EmbeddedResource Include="Form\frmIngresoProductor.resx">
       <DependentUpon>frmIngresoProductor.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmLogin.resx">
+    <EmbeddedResource Include="Form\frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -340,6 +340,9 @@
   <ItemGroup>
     <Content Include="cosecha %281%29.ico" />
     <None Include="Resources\key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Reports\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
